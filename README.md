@@ -2,7 +2,7 @@
 **Project Team ID:** PTID-CDS-APR-25-2603  
 **Project Code:** PRCP-1002-HandwrittenDigits
 
-[GitHub Repository Link](#) ()
+[GitHub Repository Link](https://github.com/SURESH745/Handwritten-Digit-Recognition-project.git) 
 
 ---
 
