@@ -2,7 +2,7 @@
 **Project Team ID:** PTID-CDS-APR-25-2603  
 **Project Code:** PRCP-1002-HandwrittenDigits
 
-[GitHub Repository Link](#) (Update your repository link here)
+[GitHub Repository Link](#) ()
 
 ---
 
